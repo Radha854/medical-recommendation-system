@@ -1,6 +1,5 @@
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.9
-anaconda-navigator==2.1.4
 appdirs==1.4.4
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
